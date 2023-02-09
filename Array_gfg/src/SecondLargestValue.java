@@ -3,7 +3,7 @@ public class SecondLargestValue {
     public static void main(String[] args) {
 
 
-        int arr[] = {12, 35, 1, 10, 34, 1};
+        int arr[] = {12, 35, 1, 10, 34, 11};
         int first = -1;
         int second = -1;
         for (int i : arr){
